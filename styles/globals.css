@@ -5,6 +5,7 @@
 @tailwind utilities;
 
 body {
-  background-image: url('/assets/bgprof.webp');
+  background-color: gray;
   background-repeat: repeat;
+  height: 100vh;
 }
